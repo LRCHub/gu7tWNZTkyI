@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "4ngel_",
+  "base_artist": "z²",
+  "createdAt": "2025-12-21T02:12:17.752769Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "4ngel_",
+      "artist": "z²",
+      "has_synced": false,
+      "path": "select/pl_01_4ngel_z2.txt"
+    }
+  ]
+}
